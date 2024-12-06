@@ -17,7 +17,7 @@
 - **Other Skills**: Quantitative research, regression analysis
 
 ## 🚀 Current Projects
-- **[Impact of Housing Prices on Inequality](#)**: A research project analyzing the relationship between rent burden and social inequality in New York City.
+-Impact of Housing Prices on Inequality: A research project analyzing the relationship between rent burden and social inequality in New York City.
 
 ## 🌐 Connect With Me
 - **LinkedIn**: www.linkedin.com/in/hanxing-feng
